@@ -3,7 +3,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 # Stats
 <p align="center">
-  
+<img src="https://leetcard.jacoblin.cool/mbar0075?theme=nord&font=ABeeZee&ext=heatmap">
+
+ <!-- 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mbar0075?theme=nord&font=ABeeZee&ext=heatmap)
-  
+  -->
 </p>
