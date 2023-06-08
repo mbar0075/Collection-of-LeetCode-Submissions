@@ -1,4 +1,4 @@
-# LeetHub-Code
+# Collection of LeetCode Submissions
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
 # Stats
