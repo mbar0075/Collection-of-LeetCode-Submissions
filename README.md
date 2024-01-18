@@ -9,7 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
       <img src="https://leetcard.jacoblin.cool/mbar0075?theme=nord&font=ABeeZee&ext=heatmap" alt="Profile"/>
     </td>
     <td align="center" width="26%">
-      <img src="Assets/leetCodeStat.png" alt="Badge"/>
+      <img src="Assets/LeetCodeStat.png" alt="Badge"/>
     </td>
   </tr>
 </table>
