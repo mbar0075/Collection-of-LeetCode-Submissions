@@ -2,9 +2,6 @@
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
 # Stats
-<p align="center">
-<img src="">
-
 <p align='center'>
 <table align="center">
   <tr>
